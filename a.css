@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>  
+h1 {
+   color: navy;
+   margin-left: 20px;
+   text-shadow: 5px 2px #00ff00;
+
+}
+
+
+p1,p2,p3{
+             color:lightblue;
+             text-align:center;
+}
+          h4 {
+             color:navy;
+             text-align:center;
+}
+          h5 {
+             color:lightblue;
+             text-align:center;   
+}
+h3.center {
+         text-align:center;
+         color:black;
+}
+h3.large {
+        font-size:300%;
+}
+
+ body {
+    background-color: #feafea;
+}
+</style>
+</head>
+<body>
+/*comments*/
+</body>
+</html>
+
+
